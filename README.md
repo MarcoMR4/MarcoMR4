@@ -19,7 +19,7 @@
   
 
 
-<h2> 🤳 Contactame:</h2>
+<h2> 🤳 Contáctame:</h2>
 
 [<img align="left" alt="Marco Mercado Rodríguez | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Marco Mercado Rodríguez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
