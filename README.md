@@ -7,17 +7,17 @@
 
   - [Sistema de gestión de órdenes de corte para la cosecha de aguacate (Django)](https://github.com/MarcoMR4/Agromunnity)
 
-- <b>🖥️ Aplicaciones de Escritorio</b>
+- <b>🖥️ Aplicaciones de escritorio</b>
   - [Aplicación para generar programa anual de mantenimiento (Pdf) - Depto. de mantenimiento de equipo del Instituto Tecnológico de Morelia (.Net C#)](https://github.com/MarcoMR4/itm_mantenimiento)
 
   - [Aplicación escolar para relizar exámenes en línea con uso de webservices (.Net C#)](https://github.com/MarcoMR4/SistemaEscolar-.NET-)
 
-- <b>📱 Aplicaciones Móviles</b>
+- <b>📱 Aplicaciones móviles</b>
   - [Aplicación escolar para realizar exámenes en línea con uso de webservices (Android - Kotlin)](https://github.com/MarcoMR4/SistemaEscolar_Android)
 
   - [Aplicación Ejemplo: To Do List  (React Native - JavaScript)](https://github.com/MarcoMR4/MateriaProgramacionMovil/tree/unidad2/tarea3-mejorada-)
 
-- <b>📊 Proyectos de IA y análsis de datos </b>
+- <b>📊 Proyectos de IA y análisis de datos </b>
   - [Juego phaser con red neuronal usando JS Synaptic Perceptron y análisis de datos con matplotlib.pyplot y Pandas (JavaScript - Python)](https://github.com/MarcoMR4/Phaser)
     
   - [Reconocimiento de flores a través de un modelo de red neuronal convolucional usando tensowflow y matplotlib.pyplot (Python)](https://github.com/MarcoMR4/CNN_Flores)
