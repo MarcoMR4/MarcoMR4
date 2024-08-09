@@ -18,9 +18,9 @@
   - [Aplicación Ejemplo: To Do List  (React Native - JavaScript)](https://github.com/MarcoMR4/MateriaProgramacionMovil/tree/unidad2/tarea3-mejorada-)
 
 - <b>📊 Proyectos de IA y análsis de datos </b>
-  - [Juego phaser con red neuronal usando JS Synaptic Perceptron y análisis de datos con matplotlib.pyplot y Pandas (JavaScript - Python)]( https://github.com/MarcoMR4/Phaser)
+  - [Juego phaser con red neuronal usando JS Synaptic Perceptron y análisis de datos con matplotlib.pyplot y Pandas (JavaScript - Python)](https://github.com/MarcoMR4/Phaser)
     
-  - [Reconocimiento de flores a través de un modelo de red neuronal convolucional usando tensowflow y matplotlib.pyplot (Python)]( https://github.com/MarcoMR4/Phaser)
+  - [Reconocimiento de flores a través de un modelo de red neuronal convolucional usando tensowflow y matplotlib.pyplot (Python)](https://github.com/MarcoMR4/CNN_Flores)
  
   
 
