@@ -22,6 +22,8 @@
     
   - [Reconocimiento de flores a través de un modelo de red neuronal convolucional usando tensowflow y matplotlib.pyplot (Python)](https://github.com/MarcoMR4/CNN_Flores)
  
+  - [Reconocimiento de cubrebocas en rostros utilizando un modelo entrenado con haarcascades (Python)](https://github.com/MarcoMR4/Detector_cubrebocas)
+ 
 - <b>[Portafolio 1 (React JS)](https://github.com/MarcoMR4/Portafolio1) </b>
 
  
