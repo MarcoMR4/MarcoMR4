@@ -13,7 +13,7 @@
   - [Aplicación escolar para relizar exámenes en línea con uso de webservices (.Net C#)](https://github.com/MarcoMR4/SistemaEscolar-.NET-)
 
 - <b>📱 Aplicaciones Móviles</b>
-  - [Aplicación escolar para relizar exámenes en línea con uso de webservices (Android - Kotlin)](https://github.com/MarcoMR4/SistemaEscolar_Android)
+  - [Aplicación escolar para realizar exámenes en línea con uso de webservices (Android - Kotlin)](https://github.com/MarcoMR4/SistemaEscolar_Android)
 
   - [Aplicación Ejemplo: To Do List  (React Native - JavaScript)](https://github.com/MarcoMR4/MateriaProgramacionMovil/tree/unidad2/tarea3-mejorada-)
 
