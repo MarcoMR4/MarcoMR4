@@ -14,9 +14,9 @@
  
   - [Star Wars Wiki (Website) (React.js)](https://github.com/MarcoMR4/SW-Wiki)
 
-  - [Calculadora de presupuesto personal (Página web) (JavaScript)](https://github.com/MarcoMR4/Presupuesto1)
+  - [Calculadora de presupuesto personal (WebPage) (JavaScript)](https://github.com/MarcoMR4/Presupuesto1)
  
-  - [QSS consultora catálogo (Sitio web) (HTML5, Bootstrap, JavaScript)](https://github.com/MarcoMR4/QSS-WebSite)
+  - [QSS consultora catálogo (Website) (HTML5, Bootstrap, JavaScript)](https://github.com/MarcoMR4/QSS-WebSite)
     
   - [Control de clientes CRUD (WebApp) (Java Spring Boot)](https://github.com/MarcoMR4/ControlClientes_SpringV6)
 
