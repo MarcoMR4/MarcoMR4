@@ -5,7 +5,9 @@
 <h2>👨‍💻 Proyectos de desarrollo de software:</h2>
 
 - <b>🌐 Aplicaciones y Sitios Web</b>
-   
+
+  - [Plataforma para seguimiento del aprendizaje de canciones (WebApp) (Nuxt) (Supabase)](https://github.com/MarcoMR4/song-learning-tracker-frontend)
+    
   - [Sistema de gestión de tutorías para el Tecnológico de Morelia (WebApp) (Django)](https://github.com/MarcoMR4/Sistema-Gestor-de-Tutorias)
 
   - [Sistema de gestión de órdenes de corte para la cosecha de aguacate (WebApp) (Django)](https://github.com/MarcoMR4/Agromunnity)
